@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PersonApp.MainPage"
+             >
+    <ScrollView Orientation="Vertical">
+        <StackLayout Orientation="Vertical">
+            <Frame BackgroundColor="#464543" Padding="24" CornerRadius="0">
+                <Label Text="Personal Info App" HorizontalTextAlignment="Center" TextColor="#fff" FontSize="36" FontFamily="Montserrat-Bold.ttf#Montserrat-Bold"/>
+            </Frame>
+            <Label Text="Please enter your details" FontSize="Title" Padding="17,40,30,10"/>
+            
+            <Entry Placeholder="Personal ID" 
+                   x:Name="txtId" 
+                   PlaceholderColor="Gray" 
+                   Margin="20" 
+                   FontFamily="Montserrat-Medium.ttf#Montserrat-Medium"/>
+            <Entry Placeholder="Name" 
+                   x:Name="txtName" 
+                   PlaceholderColor="Gray" 
+                   Margin="20" 
+                   FontFamily="Montserrat-Medium.ttf#Montserrat-Medium"/>
+            <Entry Placeholder="Last name" 
+                   x:Name ="txtLastName" 
+                   PlaceholderColor="Gray" 
+                   Margin="20" 
+                   FontFamily="Montserrat-Medium.ttf#Montserrat-Medium"/>
+            <Label Text="Date of Birth" 
+                   HorizontalTextAlignment="Start" 
+                   Margin="20, 10, 0, 0" 
+                   TextColor="Gray" 
+                   FontSize="18" 
+                   FontFamily="Montserrat-Medium.ttf#Montserrat-Medium"/>
+            <DatePicker Margin="20" 
+                        x:Name="dateofbirth" 
+                        FontFamily="Montserrat-Medium.ttf#Montserrat-Medium" 
+                        TextColor="Gray" 
+                        Date="9/17/2004" 
+                        Format="d"/>
+            <Button Text="Submit" 
+                    x:Name="btnSubmit" 
+                    CornerRadius="30" 
+                    Margin="40, 10, 40, 40" 
+                    Clicked="Submit" 
+                    BackgroundColor="#1eb15a" 
+                    TextColor="#ffff" 
+                    FontFamily="Montserrat-Medium.ttf#Montserrat-Medium"/>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

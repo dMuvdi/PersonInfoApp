@@ -1,0 +1,16 @@
+D:\PersonApp\PersonApp\PersonApp\bin\Debug\netstandard2.0\PersonApp.deps.json
+D:\PersonApp\PersonApp\PersonApp\bin\Debug\netstandard2.0\PersonApp.dll
+D:\PersonApp\PersonApp\PersonApp\bin\Debug\netstandard2.0\ref\PersonApp.dll
+D:\PersonApp\PersonApp\PersonApp\bin\Debug\netstandard2.0\PersonApp.pdb
+D:\PersonApp\PersonApp\PersonApp\obj\Debug\netstandard2.0\PersonApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\PersonApp\PersonApp\PersonApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\PersonApp\PersonApp\PersonApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\PersonApp\PersonApp\PersonApp\obj\Debug\netstandard2.0\PersonApp.AssemblyInfoInputs.cache
+D:\PersonApp\PersonApp\PersonApp\obj\Debug\netstandard2.0\PersonApp.AssemblyInfo.cs
+D:\PersonApp\PersonApp\PersonApp\obj\Debug\netstandard2.0\PersonApp.csproj.CoreCompileInputs.cache
+D:\PersonApp\PersonApp\PersonApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\PersonApp\PersonApp\PersonApp\obj\Debug\netstandard2.0\PersonApp.dll
+D:\PersonApp\PersonApp\PersonApp\obj\Debug\netstandard2.0\ref\PersonApp.dll
+D:\PersonApp\PersonApp\PersonApp\obj\Debug\netstandard2.0\PersonApp.pdb
+D:\PersonApp\PersonApp\PersonApp\obj\Debug\netstandard2.0\PersonApp.csproj.AssemblyReference.cache
+D:\PersonApp\PersonApp\PersonApp\obj\Debug\netstandard2.0\InfoPage.xaml.g.cs
